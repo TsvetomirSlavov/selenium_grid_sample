@@ -22,7 +22,7 @@ gem install bundler
 ```bash
 bundle install
 ```
-- Start the web server
+- Start the [thin](http://code.macournoyer.com/thin/usage/) web server
 ```bash
 bundle exec thin start -R server.ru
 ```
