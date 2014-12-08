@@ -1,4 +1,4 @@
-# Selenium Grid sample application
+# Selenium sample application
 
 This application will help you understand
 [Selenium](https://en.wikipedia.org/wiki/Selenium_%28software%29).
