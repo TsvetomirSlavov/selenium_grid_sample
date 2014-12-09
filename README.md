@@ -51,4 +51,9 @@ Selenium.
 - The [official page about Selenium
   WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp).
 - The [rspec docs](http://rspec.info/)
+- [Archive of Selenium tips](http://elementalselenium.com/tips)
+- [Race conditions explained](http://bocoup.com/weblog/a-day-at-the-races/)
+- [Using a Firefox extension to work around Selenium WebDriver's limitations](https://palant.de/2014/08/29/using-a-firefox-extension-to-work-around-selenium-webdriver-s-limitations)
+- Although I don't use Page Objects in this sample application, I always use them in real test suites. [A quick primer on Page Objects](http://elementalselenium.com/tips/7-use-a-page-object)
+- An [introduction to Browserstack](http://www.hanselman.com/blog/DistributedAutomatedBrowserTestingWithSeleniumAndBrowserStack.aspx)
 
