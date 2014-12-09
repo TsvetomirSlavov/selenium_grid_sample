@@ -1,5 +1,13 @@
 # Selenium sample application
 
+This is the sample application I wrote to show how Selenium and Rspec
+can be used together to test an arbitrary web application. And you can
+run the tests on remote computers and virtual machines! I wrote two blog
+posts explaining this stuff, here's the
+[first](http://brooklynoptimist.com/2014/12/08/using-selenium-and-rspec-to-test-any-web-application/)
+and here's the
+[second](http://brooklynoptimist.com/2014/12/09/how-to-set-up-selenium-grid-to-test-internet-explorer-from-a-mac-or-linux-computer/).
+
 This application will help you understand
 [Selenium](https://en.wikipedia.org/wiki/Selenium_%28software%29).
 Selenium allows you to control web browsers with source code. This
